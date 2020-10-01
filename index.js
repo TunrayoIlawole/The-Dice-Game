@@ -16,8 +16,8 @@ if (randomNumber1 === randomNumber2) {
     heading.innerHTML = "Draw!";
 }
 else if (randomNumber1 > randomNumber2) {
-    heading.innerHTML = "Player 1 wins!";
+    heading.innerHTML = "🚩Player 1 wins!";
 }
 else {
-    heading.innerHTML = "Player 2 wins!";
+    heading.innerHTML = "Player 2 wins!🚩";
 }
